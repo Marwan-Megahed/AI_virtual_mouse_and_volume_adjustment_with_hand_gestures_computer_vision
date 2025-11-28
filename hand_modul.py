@@ -1,9 +1,3 @@
-"""
-Hand Tracking Module
-Updated for latest Mediapipe & OpenCV
-Author: Murtaza Hassan (original idea) + Updated by ChatGPT
-"""
-
 import cv2
 import mediapipe as mp
 import time
@@ -140,3 +134,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
